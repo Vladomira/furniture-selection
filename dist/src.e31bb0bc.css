@@ -3,5 +3,8 @@
  * Главный файл стилей.
  * Все паршалы подключаются сюда.
  */
+header {
+  background-color: tomato;
+}
 
 /*# sourceMappingURL=/src.e31bb0bc.css.map */
